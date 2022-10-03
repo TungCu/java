@@ -6,7 +6,7 @@ public class NewDTO extends AbstractDTO<NewDTO> {
 	private String shortDescription;
 	private String categoryCode;
 	private String thumbnail;
-
+//test
 	public String getTitle() {
 		return title;
 	}
